@@ -1,0 +1,3 @@
+Q - What happens when you initialize a repository? Why do you need to do it?
+A - When you initialize a repo a hidden file to capture the meta data of your repo, called .git, is created.  You do this so that the status of your files are captured as you make modifications
+
